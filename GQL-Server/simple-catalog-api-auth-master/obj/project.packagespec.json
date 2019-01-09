@@ -1,0 +1,95 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\HP\\Documents\\Programming\\simple-catalog-api-auth-master\\simple-catalog-api-auth-master\\aspnetcoregraphql.csproj",
+    "projectName": "aspnetcoregraphql",
+    "projectPath": "C:\\Users\\HP\\Documents\\Programming\\simple-catalog-api-auth-master\\simple-catalog-api-auth-master\\aspnetcoregraphql.csproj",
+    "outputPath": "C:\\Users\\HP\\Documents\\Programming\\simple-catalog-api-auth-master\\simple-catalog-api-auth-master\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "GraphQL": {
+          "target": "Package",
+          "version": "[2.0.0-alpha-868, )"
+        },
+        "GraphQL.Authorization": {
+          "target": "Package",
+          "version": "[1.0.10-alpha-10, )"
+        },
+        "GraphQL.Server.Transports.WebSockets": {
+          "target": "Package",
+          "version": "[3.1.0-alpha0020, )"
+        },
+        "Microsoft.AspNet.WebApi": {
+          "target": "Package",
+          "version": "[5.2.6, )"
+        },
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.7, )"
+        },
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.AspNetCore.Cors": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.AspNetCore.StaticFiles": {
+          "target": "Package",
+          "version": "[2.0.3, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Rest.ClientRuntime": {
+          "target": "Package",
+          "version": "[2.3.14, )"
+        },
+        "RestClient.Net": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "RestSharp.NetCore": {
+          "target": "Package",
+          "version": "[105.2.4-rc4-24214-01, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[5.2.2, )"
+        },
+        "System.Reactive": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

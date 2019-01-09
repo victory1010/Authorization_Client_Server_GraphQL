@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\bin\Debug\netcoreapp2.0\aspnetcoregraphql.deps.json
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\bin\Debug\netcoreapp2.0\aspnetcoregraphql.runtimeconfig.json
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\bin\Debug\netcoreapp2.0\aspnetcoregraphql.runtimeconfig.dev.json
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\bin\Debug\netcoreapp2.0\aspnetcoregraphql.dll
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\bin\Debug\netcoreapp2.0\aspnetcoregraphql.pdb
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.AssemblyInfo.cs
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.dll
+C:\Users\HP\Documents\Programming\simple-catalog-api-auth-master\simple-catalog-api-auth-master\obj\Debug\netcoreapp2.0\aspnetcoregraphql.pdb
